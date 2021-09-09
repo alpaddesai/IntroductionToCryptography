@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IntroductionToCryptography"
         mc:Ignorable="d"
-        Title="MainWindow" Height="431" Width="233" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}">
+        Title="MainWindow" Height="352" Width="233" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" MaxWidth="233" MaxHeight="352">
     <Grid Margin="0,0,10,6">
         <Button x:Name="CryptoAlgorithms" Content="Crypto Algorithms" HorizontalAlignment="Left" Margin="46,34,0,0" VerticalAlignment="Top" Height="50" Width="150" Click="CryptoAlgorithms_Click">
             <Button.Background>
@@ -23,11 +23,6 @@
             </Button.Background>
         </Button>
         <Button x:Name="BlockCiphers" Content="Block Ciphers" HorizontalAlignment="Left" Margin="46,248,0,0" VerticalAlignment="Top" Width="150" Height="50" Click="BlockCiphers_Click">
-            <Button.Background>
-                <ImageBrush ImageSource="/ButtonImage.png"/>
-            </Button.Background>
-        </Button>
-        <Button x:Name="DESAES" Content="Data Encryption Standards" HorizontalAlignment="Left" Margin="46,320,0,0" VerticalAlignment="Top" Width="150" Height="50" Click="DESAES_Click">
             <Button.Background>
                 <ImageBrush ImageSource="/ButtonImage.png"/>
             </Button.Background>

@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IntroductionToCryptography"
         mc:Ignorable="d"
-        Title="BlockCiphers" Height="450" Width="800">
-    <Grid>
-        
+        Title="BlockCiphers" Height="450" Width="800" MaxWidth="800" MaxHeight="450">
+    <Grid MaxWidth="800" MaxHeight="434">
+        <Image Margin="12,20,29,18" Stretch="Fill" Source="/Slide2.JPG"/>
+
     </Grid>
 </Window>

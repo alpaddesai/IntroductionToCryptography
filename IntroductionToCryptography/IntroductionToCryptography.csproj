@@ -7,11 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="algorithm.jpg" />
     <None Remove="ButtonImage.png" />
+    <None Remove="Slide1.JPG" />
+    <None Remove="Slide2.JPG" />
+    <None Remove="Slide3.JPG" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="algorithm.jpg" />
     <Resource Include="ButtonImage.png" />
+    <Resource Include="Slide1.JPG" />
+    <Resource Include="Slide2.JPG" />
+    <Resource Include="Slide3.JPG" />
   </ItemGroup>
 
 </Project>

@@ -50,10 +50,6 @@ namespace IntroductionToCryptography
 
         }
 
-        private void DESAES_Click(object sender, RoutedEventArgs e)
-        {
-            DataEncryptionStandards DataEncryptionStandardsObject = new DataEncryptionStandards();
-            DataEncryptionStandardsObject.Show();
-        }
+   
     }
 }

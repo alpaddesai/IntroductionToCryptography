@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IntroductionToCryptography"
         mc:Ignorable="d"
-        Title="Algorithms" Height="450" Width="800">
-    <Grid>
-        
+        Title="Algorithms" Height="450" Width="800" MaxWidth="800" MaxHeight="450">
+    <Grid MaxWidth="800" MaxHeight="434">
+        <Image Margin="9,7,21,16" Stretch="Fill" Source="pack://siteoforigin:,,,/algorithm.jpg"/>
+        <Image Margin="19,19,19,28" Stretch="Fill" Source="/algorithm.jpg"/>
+
     </Grid>
 </Window>

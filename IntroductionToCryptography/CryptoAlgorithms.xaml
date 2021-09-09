@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IntroductionToCryptography"
         mc:Ignorable="d"
-        Title="CryptoAlgorithms" Height="450" Width="800">
-    <Grid>
-        
+        Title="CryptoAlgorithms" Height="509" Width="885" MaxWidth="885" MaxHeight="509">
+    <Grid Margin="0,0,76,54">
+        <Image HorizontalAlignment="Center" Height="462" Margin="0,10,0,0" VerticalAlignment="Top" Width="315"/>
+        <Image Margin="10,10,-53,-37" Stretch="Fill" Source="/Slide1.JPG"/>
     </Grid>
 </Window>

@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\alpag\source\repos\IntroductionToCryptography\IntroductionToCryptography\obj\Debug\netcoreapp3.1\
+C:\Users\alpag\source\repos\IntroductionToCryptography\IntroductionToCryptography\obj\Release\netcoreapp3.1\
 IntroductionToCryptography
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\alpag\source\repos\IntroductionToCryptography\IntroductionToCryptography\App.xaml
 6274322973
 

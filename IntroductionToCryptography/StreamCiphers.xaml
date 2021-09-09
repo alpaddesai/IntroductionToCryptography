@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IntroductionToCryptography"
         mc:Ignorable="d"
-        Title="StreamCiphers" Height="450" Width="800">
+        Title="StreamCiphers" Height="450" Width="800" MaxWidth="800" MaxHeight="450">
     <Grid>
-        
+        <Image Margin="23,27,28,19" Stretch="Fill" Source="/Slide3.JPG"/>
+
     </Grid>
 </Window>
