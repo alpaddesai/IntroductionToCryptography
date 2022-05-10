@@ -21,7 +21,7 @@ Provides an overview to the introduction of cryptography.
 ![image](SimulationsPerformanceMetrics1.jpg)
 
 ## RSA
-### Understanding cryptography, geeksforgeeks.org
+### Understanding cryptography, Christof Paar, Jan Pelzl and geeksforgeeks.org
 ![image](AsymmetricCryptography.jpg)
 
 Additional details reference: https://github.com/alpaddesai/SoftwareEngineering
