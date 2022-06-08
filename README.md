@@ -24,4 +24,4 @@ Provides an overview to the introduction of cryptography.
 ### Understanding cryptography, Christof Paar, Jan Pelzl and geeksforgeeks.org
 ![image](AsymmetricCryptography.jpg)
 
-Additional details reference: https://github.com/alpaddesai/SoftwareEngineering
+Additional details reference: https://github.com/alpaddesai/MedicalDevices and  https://github.com/alpaddesai/SoftwareEngineering
