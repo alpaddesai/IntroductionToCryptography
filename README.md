@@ -27,4 +27,6 @@ Provides an overview to the introduction of cryptography.
 ## Bitcoin
 ![image](Bitcoin.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Additional details reference: https://github.com/alpaddesai/MedicalDevices and  https://github.com/alpaddesai/SoftwareEngineering
