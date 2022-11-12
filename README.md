@@ -29,4 +29,6 @@ Provides an overview to the introduction of cryptography.
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Additional details reference: https://github.com/alpaddesai/MedicalDevices and  https://github.com/alpaddesai/SoftwareEngineering
