@@ -14,9 +14,6 @@ Provides an overview to the introduction of cryptography.
 ## Stream Cipher
 ![image](streamCipher.png)
 
-## Introduction to algorithms 
-![image](Certificate_Cryptography__11.jpg)
-
 ## Algorithms 
 ![image](SimulationsPerformanceMetrics1.jpg)
 
